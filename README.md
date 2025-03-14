@@ -1,4 +1,4 @@
-# Analisis Viral Tren Sosial Media
+# Analisis Tren Viral Sosial Media
 
 ## Deskripsi
 Proyek ini bertujuan untuk menganalisis tren viral di media sosial, dengan fokus pada **hashtag populer** dan **platform sosial media yang paling banyak digunakan**. Dataset yang dianalisis mencakup informasi mengenai postingan dari berbagai platform sosial media seperti TikTok, Instagram, Twitter, dan YouTube. Analisis ini juga menyelidiki hubungan antara **views**, **likes**, **shares**, **comments**, dan **tingkat keterlibatan** pengguna.
