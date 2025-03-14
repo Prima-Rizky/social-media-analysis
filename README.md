@@ -48,6 +48,3 @@ Berikut adalah beberapa visualisasi yang dihasilkan dalam analisis ini:
 - **Matplotlib**: Untuk visualisasi data.
 - **Seaborn**: Untuk visualisasi distribusi dan korelasi data.
 - **Jupyter Notebook**: Untuk analisis interaktif dan presentasi.
-
-## Cara Menggunakan
-1. **Clone Repository**:
